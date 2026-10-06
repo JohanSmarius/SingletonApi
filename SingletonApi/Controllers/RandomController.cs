@@ -1,16 +1,23 @@
+using System.Runtime.InteropServices.JavaScript;
 using Microsoft.AspNetCore.Mvc;
 
 namespace SingletonApi.Controllers;
 
 [ApiController]
-[Route("[controller]")]
+[Route("api/[controller]")]
 public class RandomController : ControllerBase
 {
+    private readonly NumberGenerator _numberGenerator;
 
-    [HttpGet(Name = "GetWeatherForecast")]
+    public RandomController(NumberGenerator numberGenerator)
+    {
+        _numberGenerator = numberGenerator;
+    }
+    
+    
+    [HttpGet(Name = "GetRandom")]
     public int Get()
     {
-        return
-            
+        return _numberGenerator.GetNumber();
     }
 }
