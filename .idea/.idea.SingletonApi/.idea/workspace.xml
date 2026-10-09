@@ -15,12 +15,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a2ed86a3-1daf-4edc-906e-48eb00b7e793" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/SingletonApi/SomeOtherGenerator.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SingletonApi/Controllers/RandomController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SingletonApi/Controllers/RandomController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.SingletonApi/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.SingletonApi/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/SingletonApi/NumberGenerator.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SingletonApi/NumberGenerator.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/SingletonApi/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SingletonApi/Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SingletonApi/SingletonApi.http" beforeDir="false" afterPath="$PROJECT_DIR$/SingletonApi/SingletonApi.http" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SingletonApi/WeatherForecast.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SingletonApi/WeatherForecast.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SingletonApi/SomeOtherGenerator.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SingletonApi/SomeOtherGenerator.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,7 +29,7 @@
     <option name="firstShow" value="false" />
   </component>
   <component name="EmbeddingIndexingInfo">
-    <option name="cachedIndexableFilesCount" value="13" />
+    <option name="cachedIndexableFilesCount" value="15" />
     <option name="fileBasedEmbeddingIndicesEnabled" value="true" />
   </component>
   <component name="Git.Settings">
@@ -42,121 +40,120 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "JohanSmarius"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;JohanSmarius&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/JohanSmarius/SingletonApi.git",
-    "accountId": "9da32cb4-4c8a-4fee-b147-dbdaa6b18cd6"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/JohanSmarius/SingletonApi.git&quot;,
+    &quot;accountId&quot;: &quot;9da32cb4-4c8a-4fee-b147-dbdaa6b18cd6&quot;
   }
-}]]></component>
+}</component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/.idea/.idea.SingletonApi/.idea/httpRequests/2026-10-06T143146.200.json" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/SingletonApi/NumberGenerator.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/SingletonApi/SomeOtherGenerator.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="mock:///Immediate Window" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="McpProjectServerCommands">
     <commands />
     <urls />
   </component>
+  <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="false" />
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="9.994144148413217E-291" />
-      <entry key="MS500" value="1.0874832316385872E-58" />
-      <entry key="S2" value="6.389600089748968E-15" />
-      <entry key="S5" value="8.569243623722138E-6" />
-      <entry key="S10" value="0.012395796649966423" />
-      <entry key="S30" value="1.7392516983259025" />
-      <entry key="S60" value="6.366879353036558" />
-      <entry key="M2" value="14.893548943218153" />
-      <entry key="M5" value="36.121354087308504" />
-      <entry key="M10" value="55.86381805764467" />
-      <entry key="M15" value="65.94646577225882" />
-      <entry key="M30" value="78.70759420984727" />
-      <entry key="H1" value="86.34839679805046" />
-      <entry key="H2" value="90.5387383101054" />
-      <entry key="H4" value="92.73428716938243" />
-      <entry key="D1" value="94.61740153264255" />
-      <entry key="W1" value="94.94521970086554" />
+      <entry key="MS100" value="4.235836076230273E-102" />
+      <entry key="MS500" value="1.1845032438453307E-20" />
+      <entry key="S2" value="2.8527843401274994E-5" />
+      <entry key="S5" value="0.03484041354458868" />
+      <entry key="S10" value="0.3731307626976964" />
+      <entry key="S30" value="1.8438879935109784" />
+      <entry key="S60" value="3.3822237854552193" />
+      <entry key="M2" value="7.375202821913515" />
+      <entry key="M5" value="22.936219432738127" />
+      <entry key="M10" value="46.58883279844894" />
+      <entry key="M15" value="62.48360662678854" />
+      <entry key="M30" value="86.3738711479072" />
+      <entry key="H1" value="102.69767474979577" />
+      <entry key="H2" value="112.29026524805978" />
+      <entry key="H4" value="117.49695739082945" />
+      <entry key="D1" value="122.06147714998818" />
+      <entry key="W1" value="122.86539212356453" />
     </decayedCancelled>
     <decayedSelected>
       <entry key="MS100" value="1.0" />
-      <entry key="MS500" value="1.0005485839370283" />
-      <entry key="S2" value="1.153228650983004" />
-      <entry key="S5" value="1.5052279298391027" />
-      <entry key="S10" value="1.8987043458805797" />
-      <entry key="S30" value="2.884726310776833" />
-      <entry key="S60" value="3.9692913564802748" />
-      <entry key="M2" value="5.814492823916338" />
-      <entry key="M5" value="9.684253024336968" />
-      <entry key="M10" value="12.907093976032943" />
-      <entry key="M15" value="14.500537352639373" />
-      <entry key="M30" value="16.489513002281956" />
-      <entry key="H1" value="17.670080915422833" />
-      <entry key="H2" value="18.31501753599103" />
-      <entry key="H4" value="18.652321921057965" />
-      <entry key="D1" value="18.941317297519454" />
-      <entry key="W1" value="18.991598511368903" />
+      <entry key="MS500" value="1.0000000000000093" />
+      <entry key="S2" value="1.000325752728682" />
+      <entry key="S5" value="1.0513537391380203" />
+      <entry key="S10" value="1.3078138475093881" />
+      <entry key="S30" value="2.1591529995869525" />
+      <entry key="S60" value="2.9942099704794902" />
+      <entry key="M2" value="4.366639879741872" />
+      <entry key="M5" value="8.524015634170368" />
+      <entry key="M10" value="13.898114387446958" />
+      <entry key="M15" value="17.22659630397465" />
+      <entry key="M30" value="22.00143236533189" />
+      <entry key="H1" value="25.158397976390543" />
+      <entry key="H2" value="26.983774910597706" />
+      <entry key="H4" value="27.966665437171535" />
+      <entry key="D1" value="28.824151619155515" />
+      <entry key="W1" value="28.97478835209988" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="1.1060562511017583E-8" />
-      <entry key="MS500" value="0.025735354217847367" />
-      <entry key="S2" value="0.5014280301264399" />
-      <entry key="S5" value="1.118198196766845" />
-      <entry key="S10" value="1.6547901687708535" />
-      <entry key="S30" value="4.46061071952812" />
-      <entry key="S60" value="10.205446615825897" />
-      <entry key="M2" value="20.599971767235438" />
-      <entry key="M5" value="45.725410800413535" />
-      <entry key="M10" value="68.71566699187976" />
-      <entry key="M15" value="80.40525652886963" />
-      <entry key="M30" value="95.17319560667809" />
-      <entry key="H1" value="104.00562713387288" />
-      <entry key="H2" value="108.84708712643138" />
-      <entry key="H4" value="111.38321120225024" />
-      <entry key="D1" value="113.55814345516904" />
-      <entry key="W1" value="113.93673579076147" />
+      <entry key="MS100" value="1.4821714897400462E-4" />
+      <entry key="MS500" value="0.17146666107382572" />
+      <entry key="S2" value="0.6437097208988634" />
+      <entry key="S5" value="0.9134689526362826" />
+      <entry key="S10" value="1.558515169077727" />
+      <entry key="S30" value="3.9209504532488437" />
+      <entry key="S60" value="6.310920144768709" />
+      <entry key="M2" value="11.67974828336611" />
+      <entry key="M5" value="31.396256277912006" />
+      <entry key="M10" value="60.43015776026223" />
+      <entry key="M15" value="79.66219885080592" />
+      <entry key="M30" value="108.3440644231446" />
+      <entry key="H1" value="127.83807058263605" />
+      <entry key="H2" value="139.26435177446618" />
+      <entry key="H4" value="145.4585937998411" />
+      <entry key="D1" value="150.88476374113893" />
+      <entry key="W1" value="151.8400562264923" />
     </decayedShown>
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 4,
-  "fromUser": false
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4,
+  &quot;fromUser&quot;: false
+}</component>
   <component name="ProjectId" id="3KJxojL0qiSNjjMzdxW44wQOoNw" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    ".NET Launch Settings Profile.SingletonApi: http.executor": "Debug",
-    "HTTP Request.All in SingletonApi.executor": "Run",
-    "HTTP Request.SingletonApi | #1.executor": "Run",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.MCP Project settings loaded": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.cidr.known.project.marker": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.readMode.enableVisualFormatting": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "cidr.known.project.marker": "true",
-    "codeWithMe.voiceChat.enabledByDefault": "false",
-    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
-    "git-widget-placeholder": "transient-scoped",
-    "junie.onboarding.icon.badge.shown": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "to.speed.mode.migration.done": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;.NET Launch Settings Profile.SingletonApi: http.executor&quot;: &quot;Debug&quot;,
+    &quot;HTTP Request.All in SingletonApi.executor&quot;: &quot;Run&quot;,
+    &quot;HTTP Request.SingletonApi | #1.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.readMode.enableVisualFormatting&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;transient-scoped&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunDashboard">
     <option name="configurationStatuses">
       <map>
@@ -230,6 +227,7 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="UnityCheckinConfiguration" checkUnsavedScenes="false" />
   <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />

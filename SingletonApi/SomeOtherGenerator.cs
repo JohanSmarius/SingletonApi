@@ -1,3 +1,5 @@
+using System.Diagnostics;
+
 namespace SingletonApi;
 
 public class SomeOtherGenerator
@@ -7,6 +9,7 @@ public class SomeOtherGenerator
 
     public SomeOtherGenerator(NumberGenerator numberGenerator)
     {
+        Debug.WriteLine("SomeOtherGenerator created");
         _numberGenerator = numberGenerator;
         _number = _numberGenerator.GetRandomNumber();
     }
