@@ -14,7 +14,10 @@
     <configurations />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a2ed86a3-1daf-4edc-906e-48eb00b7e793" name="Changes" comment="" />
+    <list default="true" id="a2ed86a3-1daf-4edc-906e-48eb00b7e793" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.SingletonApi/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.SingletonApi/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SingletonApi/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SingletonApi/Program.cs" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -60,61 +63,61 @@
   <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.0" />
-      <entry key="MS500" value="1.0000310166168656" />
-      <entry key="S2" value="1.2309934083919232" />
-      <entry key="S5" value="2.800516033469567" />
-      <entry key="S10" value="5.157972740265757" />
-      <entry key="S30" value="12.855420343880267" />
-      <entry key="S60" value="22.63598304173516" />
-      <entry key="M2" value="36.62851222033708" />
-      <entry key="M5" value="64.23340856929835" />
-      <entry key="M10" value="89.85564585733799" />
-      <entry key="M15" value="103.49809143582969" />
-      <entry key="M30" value="121.33614360785855" />
-      <entry key="H1" value="132.31347400055714" />
-      <entry key="H2" value="138.4246695767043" />
-      <entry key="H4" value="141.65182731850285" />
-      <entry key="D1" value="144.43334657772022" />
-      <entry key="W1" value="144.91883534992076" />
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="0.0" />
+      <entry key="S5" value="2.048554681058884E-271" />
+      <entry key="S10" value="1.3950307841280436E-135" />
+      <entry key="S30" value="8.313575871136432E-45" />
+      <entry key="S60" value="5.756389221902491E-22" />
+      <entry key="M2" value="1.8471181448203886E-10" />
+      <entry key="M5" value="0.001944603785800375" />
+      <entry key="M10" value="0.4944022622147071" />
+      <entry key="M15" value="3.2256882630149892" />
+      <entry key="M30" value="21.420776710056728" />
+      <entry key="H1" value="55.59382882546867" />
+      <entry key="H2" value="89.72733152635968" />
+      <entry key="H4" value="114.04540967436625" />
+      <entry key="D1" value="139.30822077841685" />
+      <entry key="W1" value="144.17278985776852" />
     </decayedCancelled>
     <decayedSelected>
-      <entry key="MS100" value="1.5823737928542214E-110" />
-      <entry key="MS500" value="1.096647145648513E-22" />
-      <entry key="S2" value="3.7954241578395257E-6" />
-      <entry key="S5" value="0.011770334397431567" />
-      <entry key="S10" value="0.22930638928517205" />
-      <entry key="S30" value="2.2804451254341602" />
-      <entry key="S60" value="4.823723910516921" />
-      <entry key="M2" value="8.331490909944845" />
-      <entry key="M5" value="14.471892392926316" />
-      <entry key="M10" value="19.38973802389081" />
-      <entry key="M15" value="21.852351895625834" />
-      <entry key="M30" value="24.974279738980997" />
-      <entry key="H1" value="26.85522379099301" />
-      <entry key="H2" value="27.891872196936234" />
-      <entry key="H4" value="28.436627811111485" />
-      <entry key="D1" value="28.90477871061346" />
-      <entry key="W1" value="28.986364045420817" />
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0" />
+      <entry key="S2" value="1.0" />
+      <entry key="S5" value="1.0" />
+      <entry key="S10" value="1.0" />
+      <entry key="S30" value="1.0" />
+      <entry key="S60" value="1.0" />
+      <entry key="M2" value="1.0000000000420144" />
+      <entry key="M5" value="1.0004381224251024" />
+      <entry key="M10" value="1.1066858988246788" />
+      <entry key="M15" value="1.6810644916355555" />
+      <entry key="M30" value="5.40897867590179" />
+      <entry key="H1" value="12.283693711343659" />
+      <entry key="H2" value="19.07960438813667" />
+      <entry key="H4" value="23.894634893651457" />
+      <entry key="D1" value="28.879110950341737" />
+      <entry key="W1" value="29.837141577701193" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="4.026818575356735E-5" />
-      <entry key="MS500" value="0.13215760338458543" />
-      <entry key="S2" value="0.8328960591242627" />
-      <entry key="S5" value="2.62220643289898" />
-      <entry key="S10" value="5.251589356999678" />
-      <entry key="S30" value="14.961760570839072" />
-      <entry key="S60" value="27.279490584414972" />
-      <entry key="M2" value="44.80121305749917" />
-      <entry key="M5" value="78.5897370780227" />
-      <entry key="M10" value="109.16587991459494" />
-      <entry key="M15" value="125.29014126442488" />
-      <entry key="M30" value="146.2756435301726" />
-      <entry key="H1" value="159.14991472583677" />
-      <entry key="H2" value="166.30676666418464" />
-      <entry key="H4" value="170.08346684421613" />
-      <entry key="D1" value="173.33727948498407" />
-      <entry key="W1" value="173.905078207303" />
+      <entry key="MS100" value="1.7967936809223308E-8" />
+      <entry key="MS500" value="0.028242272710971426" />
+      <entry key="S2" value="0.4099443550886855" />
+      <entry key="S5" value="0.6999869834968316" />
+      <entry key="S10" value="0.8366522476494231" />
+      <entry key="S30" value="0.9422836612093926" />
+      <entry key="S60" value="0.9707129654070726" />
+      <entry key="M2" value="0.9852476672655753" />
+      <entry key="M5" value="0.9964519712156137" />
+      <entry key="M10" value="1.5976826828018582" />
+      <entry key="M15" value="4.902893672902114" />
+      <entry key="M30" value="26.822625005512652" />
+      <entry key="H1" value="67.86913521702256" />
+      <entry key="H2" value="108.80035198284286" />
+      <entry key="H4" value="137.93590460153942" />
+      <entry key="D1" value="168.1864952964308" />
+      <entry key="W1" value="174.009807922459" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
@@ -126,30 +129,45 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;.NET Launch Settings Profile.SingletonApi: http.executor&quot;: &quot;Debug&quot;,
-    &quot;HTTP Request.All in SingletonApi.executor&quot;: &quot;Run&quot;,
-    &quot;HTTP Request.SingletonApi | #1.executor&quot;: &quot;Run&quot;,
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.readMode.enableVisualFormatting&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
-    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
-    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
-    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
-    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    ".NET Launch Settings Profile.SingletonApi: http.executor": "Debug",
+    "HTTP Request.All in SingletonApi.executor": "Run",
+    "HTTP Request.SingletonApi | #1.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "cidr.known.project.marker": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "main",
+    "junie.onboarding.icon.badge.shown": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "to.speed.mode.migration.done": "true"
   }
-}</component>
+}]]></component>
+  <component name="RunDashboard">
+    <option name="configurationStatuses">
+      <map>
+        <entry key="HttpClient.HttpRequestRunConfigurationType">
+          <value>
+            <map>
+              <entry key="All in SingletonApi" value="STOPPED" />
+              <entry key="SingletonApi | #1" value="STOPPED" />
+            </map>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="RunManager" selected=".NET Launch Settings Profile.SingletonApi: http">
     <configuration name="All in SingletonApi" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" path="$PROJECT_DIR$/SingletonApi/SingletonApi.http">
       <method v="2" />
