@@ -4,3 +4,6 @@ GET {{SingletonApi_HostAddress}}/api/random/
 Accept: application/json
 
 ###
+
+GET https://didemowebapi-epg9c9g5dyezhefe.westeurope-01.azurewebsites.net/api/random
+Accept: application/json
