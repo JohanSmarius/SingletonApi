@@ -4,18 +4,20 @@ namespace SingletonApi;
 
 public class SomeOtherGenerator
 {
-    private readonly NumberGenerator _numberGenerator;
-    private readonly int _number;
+    private readonly NumberGenerator _scopedGenerator;
 
     public SomeOtherGenerator(NumberGenerator numberGenerator)
     {
         Debug.WriteLine("SomeOtherGenerator created");
-        _numberGenerator = numberGenerator;
-        _number = _numberGenerator.GetRandomNumber();
+        _scopedGenerator = numberGenerator;
     }
-    
-    public int Generate()
+
+    public Guid CapturedInstanceId => _scopedGenerator.InstanceId;
+
+    public void Process(int value)
     {
-        return _number;
+        _scopedGenerator.AddNumber(value);
     }
+
+    public int GetHistoryCount() => _scopedGenerator.HistoryCount;
 }

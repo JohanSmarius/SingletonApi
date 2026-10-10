@@ -1,9 +1,7 @@
 @SingletonApi_HostAddress = http://localhost:5059
 
-GET {{SingletonApi_HostAddress}}/api/random/
-Accept: application/json
-
-###
-
+# Execute sequential requests to observe:
+# 1. ControllerScopedInstance.InstanceId changes on every request, with ItemsInScope remaining 1.
+# 2. SingletonCapturedScopedInstance.InstanceId is frozen, with TotalAccumulatedItems continuously increasing (state leak).
 GET {{SingletonApi_HostAddress}}/api/random/
 Accept: application/json

@@ -4,15 +4,19 @@ namespace SingletonApi;
 
 public class NumberGenerator
 {
-    private readonly int _number = Random.Shared.Next(1, 100);
+    public Guid InstanceId { get; } = Guid.NewGuid();
+    private readonly List<int> _history = [];
 
     public NumberGenerator()
     {
-        Debug.WriteLine("NumberGenerator created");
+        Debug.WriteLine($"NumberGenerator created: {InstanceId}");
     }
-    
-    public int GetRandomNumber()
+
+    public void AddNumber(int number)
     {
-        return _number;
+        _history.Add(number);
     }
+
+    public int HistoryCount => _history.Count;
+    public IReadOnlyList<int> History => _history;
 }
