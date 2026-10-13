@@ -16,8 +16,8 @@ builder.Services.AddControllers();
 // Learn more about configuring OpenAPI at https://aka.ms/aspnet/openapi
 builder.Services.AddOpenApi();
 
-builder.Services.AddScoped<NumberGenerator>();
-builder.Services.AddSingleton<SomeOtherGenerator>();
+builder.Services.AddTransient<NumberGenerator>();
+builder.Services.AddTransient<SomeOtherGenerator>();
 
 var app = builder.Build();
 
