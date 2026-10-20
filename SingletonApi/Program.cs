@@ -4,11 +4,11 @@ var builder = WebApplication.CreateBuilder(args);
 
 // Note: ValidateScopes is disabled to demonstrate runtime concurrency failures
 // that occur in production environments where scope validation is turned off.
-builder.Host.UseDefaultServiceProvider(options =>
-{
-    options.ValidateScopes = false;
-    options.ValidateOnBuild = false;
-});
+// builder.Host.UseDefaultServiceProvider(options =>
+// {
+//     options.ValidateScopes = false;
+//     options.ValidateOnBuild = false;
+// });
 
 // Add services to the container.
 
